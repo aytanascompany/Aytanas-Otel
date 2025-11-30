@@ -1,0 +1,7 @@
+{
+  "name": "Mortanas Hotel",
+  "description": "Mortanas Otel",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
